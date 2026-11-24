@@ -1,2 +1,2 @@
 ci=pass
-lint=pass
+lint=fail
